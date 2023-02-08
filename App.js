@@ -1,9 +1,9 @@
 // import React from 'react';
 import { Dashboard, Place } from "./screens";
-import { createStackNavigator } from "@react-navigation/stack";
+import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
 
-// import Tabs from "./navigation/tabs";
+import Tabs from "./navigation/tabs";
 
 const Stack = createStackNavigator();
 
